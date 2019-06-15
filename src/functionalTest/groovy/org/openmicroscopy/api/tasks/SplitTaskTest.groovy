@@ -1,8 +1,8 @@
-package org.openmicroscopy.tasks
+package org.openmicroscopy.api.tasks
 
 import org.gradle.testkit.runner.BuildResult
 import org.gradle.testkit.runner.TaskOutcome
-import org.openmicroscopy.AbstractBaseTest
+import org.openmicroscopy.api.AbstractBaseTest
 
 class SplitTaskTest extends AbstractBaseTest {
 
